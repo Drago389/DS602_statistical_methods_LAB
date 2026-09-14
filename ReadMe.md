@@ -27,5 +27,5 @@ This project implements an end-to-end data science workflow using the **Medical 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/Lab4_DS602_MSc.git
-cd Lab4_DS602_MSc
+git clone https://github.com/Drago389/DS602_statistical_methods_LAB.git
+cd DS602_statistical_methods_LAB
