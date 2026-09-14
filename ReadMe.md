@@ -1,5 +1,10 @@
 # Lab-4: Applied Statistical Modeling & Interactive Web Dashboard
 
+## 🚀 Live Demo
+**[View the Interactive Dashboard Here](https://ds602statisticalmethodslab-n5uhnhbwarm4ewp53sbu2s.streamlit.app/)**
+
+
+
 ## M.Sc. Data Science — Semester 1
 **Course:** Statistical Modeling with Python  
 **Student Name:** ABHAY TRIPATHI  
