@@ -1,4 +1,4 @@
-# Lab-4: Applied Statistical Modeling & Interactive Web Dashboard
+# Applied Statistical Modeling & Interactive Web Dashboard
 
 ## 🚀 Live Demo
 **[View the Interactive Dashboard Here](https://ds602statisticalmethodslab-n5uhnhbwarm4ewp53sbu2s.streamlit.app/)**
